@@ -1,0 +1,3 @@
+interface FlyweightShape {
+    void draw();
+}
